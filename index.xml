@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nobel Prize Laureates Network</title>
+    <link>https://s212441.github.io/</link>
+    <description>Recent content on Nobel Prize Laureates Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Dec 2021 19:57:10 +0100</lastBuildDate><atom:link href="https://s212441.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is the post title</title>
+      <link>https://s212441.github.io/posts/mypost/</link>
+      <pubDate>Sun, 05 Dec 2021 19:57:10 +0100</pubDate>
+      
+      <guid>https://s212441.github.io/posts/mypost/</guid>
+      <description>This is some content</description>
+    </item>
+    
+  </channel>
+</rss>
